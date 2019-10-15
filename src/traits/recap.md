@@ -17,7 +17,7 @@ _Trait bounds_ specify the behavior of generic type parameters.
 Trait and trait bounds enable us to write code using generics that has specific
 behavior.
 
-In a dynamically typed language, we would get errors at compile time if we call
+In a dynamically typed language, we would get errors at runtime if we called
 a method on a type that was not implemented.
 
 In Rust, we check at compile time _and_ don't suffer any performance penalties.
