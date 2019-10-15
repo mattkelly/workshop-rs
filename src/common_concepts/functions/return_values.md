@@ -1,6 +1,6 @@
 # Return Values
 
-Functions can also return value. The return type is written to the right of
+Functions can also return a value. The return type is written to the right of
 `->`.
 
 ```rust,editable

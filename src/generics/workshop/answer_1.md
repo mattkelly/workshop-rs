@@ -23,5 +23,5 @@ impl<T> Bar<T> {
 fn main() {}
 ```
 
-The complier expected `T` to be a concrete type instead of a generic type
+The compiler expected `T` to be a concrete type instead of a generic type
 parameter!

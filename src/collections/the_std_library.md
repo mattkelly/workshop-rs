@@ -8,7 +8,7 @@
 In recent times, the standard library consists of two parts:
 
 - `core`: A _minimal_ platform dependency free (no heap, no I/O, no concurrency) foundation.
-- `std`: `core` plus `platform depenpendent core types.
+- `std`: `core` plus platform dependent core types.
 
 `core` is a subset of `std`.
 

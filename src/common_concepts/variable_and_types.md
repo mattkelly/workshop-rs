@@ -9,7 +9,7 @@ fn main() {
 }
 ```
 
-You cannot assign mismatch types when assigning variables.
+You cannot assign mismatched types when assigning variables.
 
 ```plaintext
 $ cargo run

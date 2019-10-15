@@ -13,7 +13,7 @@ pub trait Summary {
 
 We have not defined an implementation for the `summarize` method.
 
-The complier will be responsible for enforcing that types provide an
+The compiler will be responsible for enforcing that types provide an
 implementation for `summarize` if the type has the `Summary` trait.
 
 A trait can have multiple methods in its body.

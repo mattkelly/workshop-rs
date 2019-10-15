@@ -1,6 +1,6 @@
 # Parameters
 
-Functions can take _paramters_:
+Functions can take _parameters_:
 
 ```rust
 fn main() {

@@ -101,7 +101,7 @@
     - [Mutable References 2](./ownership/mutable_references_2.md)
     - [Mutable References 3](./ownership/mutable_references_3.md)
     - [Mutable References 4](./ownership/mutable_references_4.md)
-    - [Mulitple Mutable References](./ownership/mulitple_mutable_references.md)
+    - [Multiple Mutable References](./ownership/mulitple_mutable_references.md)
     - [Briefly: Non-Lexical Lifetimes](./ownership/nll/title.md)
         - [The Borrow Checker in Rust 2015](./ownership/nll/the_borrow_checker_in_rust_2015.md)
         - [The Borrow Checker in Rust 2018](./ownership/nll/the_borrow_checker_in_rust_2018.md)

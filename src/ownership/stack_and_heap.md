@@ -12,6 +12,6 @@ int main() {
 }
 ```
 
-Like C, Rust allocate everything on the stack by default.
+Like C, Rust allocates everything on the stack by default.
 
 With the Rust standard library, we can allocate data on the heap.

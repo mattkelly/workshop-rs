@@ -6,7 +6,7 @@ In C, there are a variety of different recoverable error handling techniques:
 - Status code: `int` 0 or a status code integer
 - Overloaded status code: 0 on success, status code if less than 0, meaningful
   unsigned integer return if greater than zero
-- Robust: Error are pointers to structures (heap allocated) with associated
+- Robust: Errors are pointers to structures (heap allocated) with associated
   debugging data
 - Or even a combination of above!
 

@@ -3,7 +3,7 @@
 > Note: This book is currently a WIP. Some sections may be missing or
 > incomplete.
 
-The following book contains a series chapters designed to be presented to
+The following book contains a series of chapters designed to be presented to
 newcomers to the Rust programming language. Each chapter, otherwise know as
 talk, is designed to be approximately an hour long and feature both a speaking
 portion as well as a more interactive 'build something' workshop portion. The

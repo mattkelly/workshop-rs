@@ -1,6 +1,6 @@
 # Adding Meaning with Structs
 
-There are often many ways a representing data:
+There are often many ways of representing data:
 
 ```rust
 let x = 3;

@@ -43,4 +43,4 @@ fn main() {
 }
 ```
 
-Not great! It _feels_ like were duplicating code again!
+Not great! It _feels_ like we're duplicating code again!

@@ -5,7 +5,7 @@ When we assign integers, data is copied on the stack:
 ```rust,ignore
 let x = 5;
 let y = x;  // Copy the value of x to y
-// There now two `5`s on the stack
+// There are now two `5`s on the stack
 ```
 
 This is different than `String`s. For example:

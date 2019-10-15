@@ -1,3 +1,3 @@
 # Workshop
 
-We going to dive a little deeper into generics!
+We're going to dive a little deeper into generics!

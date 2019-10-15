@@ -1,6 +1,6 @@
 # Rustup
 
-You can switch between complier releases with `rustup default`.
+You can switch between compiler releases with `rustup default`.
 
 ```sh
 $ rustup default nightly

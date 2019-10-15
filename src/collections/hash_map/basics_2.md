@@ -17,7 +17,7 @@ fn main() {
 }
 ```
 
-`HashMap<_, _>` is require with `collect` because we could collect other data
+`HashMap<_, _>` is required with `collect` because we could collect other data
 structures.
 
 However, we can use `_` for `K` and `V` since these can be inferred.

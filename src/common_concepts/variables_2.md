@@ -10,7 +10,7 @@ fn main() {
 }
 ```
 
-In this particular example, we some warnings:
+In this particular example, we get some warnings:
 
 ```plaintext
 $ cargo run

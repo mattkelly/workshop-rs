@@ -1,6 +1,6 @@
 # Storing Multiple Types
 
-`Vec`s can only store items of the same time.
+`Vec`s can only store items of the same type.
 
 Rust must know the size of `T` at compile time such that it knows how much heap
 memory to allocate for each elements.

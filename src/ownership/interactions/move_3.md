@@ -1,6 +1,6 @@
 # Ways Variable and Data Interact: Move
 
-`String`'s are similar to this in C:
+`String`s are similar to this in C:
 
 ```c
 //! A 'safe' String :)

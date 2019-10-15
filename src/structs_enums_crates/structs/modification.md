@@ -1,6 +1,6 @@
 # Modification
 
-Both C and Rust have very similar ways of modify struct members:
+Both C and Rust have very similar ways of modifying struct members:
 
 ```c
 sContext context = {

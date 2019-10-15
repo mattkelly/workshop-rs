@@ -2,12 +2,12 @@
 
 _Traits_ define shared behavior.
 
-_Trait bounds_ can be used to specify the behavior of generic type parameter.
+_Trait bounds_ can be used to specify the behavior of generic type parameters.
 
 > Note: Traits are similar to a feature often called _interfaces_ in other
 > languages, although with some differences.
 
-Traits in Rust are most similar _type classes_ in Haskell:
+Traits in Rust are most similar to _type classes_ in Haskell:
 
 - It is possible to add traits to arbitrary data types, including primitive
   types.

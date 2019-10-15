@@ -1,6 +1,6 @@
 # Rustup
 
-`rustup` manages versions of the complier and standard library.
+`rustup` manages versions of the compiler and standard library.
 
 ```sh
 $ rustup -h
